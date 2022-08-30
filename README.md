@@ -16,7 +16,7 @@ In the last project, I continued with my learning process in the ExpressJS frame
 
 
 
-- 💼 My personal Linkedin [Linkedin](www.linkedin.com/in/pablo-espinosa-granados-97969b24a)
+- 💼 My personal Linkedin [Linkedin](https://www.linkedin.com/in/pablo-espinosa-granados-97969b24a/)
 
 - 💼 My personal Linkedin [Linkedin](https://www.youtube.com/watch?v=Rw887TSEQz0&ab_channel=VidaMRR-Programacionweb)
 Everyone at some point started as an apprentice.
