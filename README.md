@@ -1,7 +1,7 @@
 ### console.log('Hello World👋') 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="90" height="90" />
 
-I am a software engineering student at the Universidad Distrital Francisco José de Caldas who is very passionate about software development, data science, and the creation of technologies that can contribute to society, in addition to seeking to generate knowledge that serves the community. Currently, some of the technologies I am working with are Java, Python, Matlab, MySQL, and Oracle.
+I am a software engineer from the Universidad Distrital Francisco José de Caldas who is very passionate about software development, data science, and the creation of technologies that can contribute to society, in addition to seeking to generate knowledge that serves the community. Currently, some of the technologies I am working with are Java, Python, Matlab, MySQL, and Oracle.
 
 <p float="left">
   <img src="https://empresas.blogthinkbig.com/wp-content/uploads/2019/10/python.png?resize=289%2C288" width="50" />
