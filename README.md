@@ -4,8 +4,8 @@
 I am a software engineer from the Universidad Distrital Francisco José de Caldas who is very passionate about software development, data science, and the creation of technologies that can contribute to society, in addition to seeking to generate knowledge that serves the community. Currently, some of the technologies I am working with are Java, Python, Matlab, MySQL, and Oracle.
 
 <p float="left">
-  <img src="https://empresas.blogthinkbig.com/wp-content/uploads/2019/10/python.png?resize=289%2C288" width="50" />
   <img src="https://www.manualweb.net/img/logos/java.png" width="60" />
+  <img src="https://empresas.blogthinkbig.com/wp-content/uploads/2019/10/python.png?resize=289%2C288" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" />
   <img src="https://cdn-www.infobip.com/wp-content/uploads/2020/10/14135942/oracle-logo.png" width="70" />
   <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" width="80" />
